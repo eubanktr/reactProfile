@@ -1,7 +1,7 @@
 {
   "name": "00-practiceapp",
   "version": "0.1.0",
-  "homepage": "eubanktr.github.io/reactProfile",
+  "homepage": "https://eubanktr.github.io/reactProfile",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
