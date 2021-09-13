@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/eubanktr.github.io/reactProfile/static/js/main.2debbf59.chunk.js",
-    "main.js.map": "/eubanktr.github.io/reactProfile/static/js/main.2debbf59.chunk.js.map",
-    "runtime-main.js": "/eubanktr.github.io/reactProfile/static/js/runtime-main.aaf4e697.js",
-    "runtime-main.js.map": "/eubanktr.github.io/reactProfile/static/js/runtime-main.aaf4e697.js.map",
-    "static/css/2.f2512455.chunk.css": "/eubanktr.github.io/reactProfile/static/css/2.f2512455.chunk.css",
-    "static/js/2.7a321c89.chunk.js": "/eubanktr.github.io/reactProfile/static/js/2.7a321c89.chunk.js",
-    "static/js/2.7a321c89.chunk.js.map": "/eubanktr.github.io/reactProfile/static/js/2.7a321c89.chunk.js.map",
-    "index.html": "/eubanktr.github.io/reactProfile/index.html",
-    "static/css/2.f2512455.chunk.css.map": "/eubanktr.github.io/reactProfile/static/css/2.f2512455.chunk.css.map",
-    "static/js/2.7a321c89.chunk.js.LICENSE.txt": "/eubanktr.github.io/reactProfile/static/js/2.7a321c89.chunk.js.LICENSE.txt",
-    "static/media/IMG_0646.84244d85.jpg": "/eubanktr.github.io/reactProfile/static/media/IMG_0646.84244d85.jpg"
+    "main.js": "/reactProfile/static/js/main.2debbf59.chunk.js",
+    "main.js.map": "/reactProfile/static/js/main.2debbf59.chunk.js.map",
+    "runtime-main.js": "/reactProfile/static/js/runtime-main.ad6ae2ab.js",
+    "runtime-main.js.map": "/reactProfile/static/js/runtime-main.ad6ae2ab.js.map",
+    "static/css/2.f2512455.chunk.css": "/reactProfile/static/css/2.f2512455.chunk.css",
+    "static/js/2.7a321c89.chunk.js": "/reactProfile/static/js/2.7a321c89.chunk.js",
+    "static/js/2.7a321c89.chunk.js.map": "/reactProfile/static/js/2.7a321c89.chunk.js.map",
+    "index.html": "/reactProfile/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/reactProfile/static/css/2.f2512455.chunk.css.map",
+    "static/js/2.7a321c89.chunk.js.LICENSE.txt": "/reactProfile/static/js/2.7a321c89.chunk.js.LICENSE.txt",
+    "static/media/IMG_0646.84244d85.jpg": "/reactProfile/static/media/IMG_0646.84244d85.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aaf4e697.js",
+    "static/js/runtime-main.ad6ae2ab.js",
     "static/css/2.f2512455.chunk.css",
     "static/js/2.7a321c89.chunk.js",
     "static/js/main.2debbf59.chunk.js"
